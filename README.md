@@ -1,4 +1,6 @@
 # PD utils 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fllm-d%2Fllm-d-pd-utils.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fllm-d%2Fllm-d-pd-utils?ref=badge_shield)
+
 
 This repository includes [Agentic Skills](https://agentskills.io/home) that automate common llm-d operational tasks. Skills are custom slash commands defined by `SKILL.md` files — invoke them in Claude Code with `/<skill-name>` and they guide AI agent through multi-step workflows (deploying configs, running tests, interpreting results) using the instructions and scripts in this repo.
 
@@ -42,3 +44,7 @@ and run a benchmarking script to measure the transfer throughput (GB/s).
 Refer to [benchmarking](benchmarks/README.md) for more details.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fllm-d%2Fllm-d-pd-utils.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fllm-d%2Fllm-d-pd-utils?ref=badge_large)
